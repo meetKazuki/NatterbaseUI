@@ -310,15 +310,13 @@ header {
 /* Gallery -> Feature */
 .feature-wrapper {
   display: flex;
-  margin: 25px;
-  /* width: 100%; */
 }
 .feature {
   font-size: 12px;
   font-weight: normal;
   letter-spacing: 0.04em;
   line-height: normal;
-  padding: 10px;
+  padding: 5px;
 
 }
 .feature h6 {
