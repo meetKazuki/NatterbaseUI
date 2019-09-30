@@ -239,7 +239,7 @@ header {
   height: 100%;
 }
 .service-hero {
-  background-image: url(Bolas01.jpg);
+  background-image: url(images/Bolas01.jpg);
   background-position: center top;
   opacity: 1;
   transition: all 0.8s ease-in-out;
